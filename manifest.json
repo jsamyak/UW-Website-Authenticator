@@ -3,5 +3,9 @@
   "name": "UW authenticator",
   "version": "1.8",
 
-  "description": "This browser extension adds a green border to all official UW webpages. It will enable you to verify if you are accessing the official webpages of UW; No more fake sites! - Created by Samyak Jain (UW Seattle student) (Twitter: @SamyakJainIND )"
+  "description": "This browser extension adds a green border to all official UW webpages. It will enable you to verify if you are accessing the official webpages of UW; No more fake sites! - Created by Samyak Jain (UW Seattle student) (Twitter: @SamyakJainIND )",
+
+  "icons": {
+    "48": "icons/border.png"
+  }
 }
