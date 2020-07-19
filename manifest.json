@@ -7,5 +7,12 @@
 
   "icons": {
     "48": "icons/border.png"
-  }
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.washington.edu/*","*://*.uw.edu/*"],
+      "js": ["uwauthenticator.js"]
+    }
+  ]
 }
